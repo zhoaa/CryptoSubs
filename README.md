@@ -21,6 +21,10 @@ Pip Installations (```pip install```):
 ```pandas```
 ```numpy```
 ```plotly```
+```seaborn```
+```pathlib```
+```matplotlib```
+```DateTime```
 
 Setup:
 - ```git clone``` peddiehacks2021 on Github
