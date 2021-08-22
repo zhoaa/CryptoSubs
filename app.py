@@ -25,8 +25,8 @@ import praw
 
 CLIENT_ID = "dMpUyH_RPCAKPCNH6lijjA"
 CLIENT_SECRET = "pHUrCdcY00nbmFLZ_zYrzmcsAk26rQ"
-USERNAME = "muster-mark"
-PASSWORD = "3quarks"
+USERNAME = "crytosubscraper"
+PASSWORD = "NYSE: IVHtothemoon"
 
 # Set up reddit client
 reddit = praw.Reddit(
