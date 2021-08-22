@@ -23,8 +23,8 @@ import plotly.graph_objs as go
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 import praw
 
-CLIENT_ID = "dMpUyH_RPCAKPCNH6lijjA"
-CLIENT_SECRET = "pHUrCdcY00nbmFLZ_zYrzmcsAk26rQ"
+CLIENT_ID = "_X6SXrJsp13mexOwy5ZjBQ"
+CLIENT_SECRET = "hJgrooGc5eljGaqRp5cV4loZqVCZMg"
 USERNAME = "crytosubscraper"
 PASSWORD = "NYSE: IVHtothemoon"
 
